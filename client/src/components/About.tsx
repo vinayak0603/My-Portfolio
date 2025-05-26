@@ -23,9 +23,9 @@ const About = () => {
           <h2 className="text-5xl font-bold mb-6 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
             About Me
           </h2>
-          <p className="text-xl text-gray-400 max-w-3xl mx-auto">
+         {/*<p className="text-xl text-gray-400 max-w-3xl mx-auto">
             I'm a passionate developer who loves turning ideas into digital reality
-          </p>
+          </p>*/}
         </motion.div>
 
         <div className="grid md:grid-cols-2 gap-12 items-center mb-16">

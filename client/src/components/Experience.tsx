@@ -32,9 +32,11 @@ const Experience = () => {
           <h2 className="text-5xl font-bold mb-6 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
             Experience
           </h2>
+          {/*
           <p className="text-xl text-gray-400">
             Building solutions and growing through challenges
           </p>
+          */}
         </motion.div>
 
         <div className="space-y-8">
